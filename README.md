@@ -1,7 +1,5 @@
 # hello-world
-it's a repository
-
 
 Hi, I'm tvoags.
-This is my first repository, as I'm just learning the ropes of github.
-I hope to someday help make something truly special that can enrich people's lives.
+I'm new to programming, and have much to learn.
+I hope to help create something that makes the world a better place.
